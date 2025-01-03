@@ -1,8 +1,10 @@
 # CNN para Classificação de Marés
 
-Este repositório contém um projeto de Machine Learning que utiliza uma Rede Neural Convolucional (CNN) para classificação de imagens de marés em diferentes categorias (maré baixa, mediana e alta).
-As imagens de treino podem ser encontradas em: https://drive.google.com/drive/folders/1o8pYNUYthiJmWrKMQ4RkteXOGKCKQlTi?usp=sharing
-As imagens de teste podem ser encontradas em: https://drive.google.com/drive/folders/1_D5Onxg2JwQNhdwAq1wIHUuD0aiK0zLD?usp=drive_link
+Este repositório contém um projeto de Machine Learning que utiliza uma Rede Neural Convolucional (CNN) para classificação de imagens de marés em diferentes categorias (maré baixa, mediana e alta). <br/>
+
+O script utilizado para coleta de imagens no GEE (Google Earth Engine) pode ser encontrado no seguinte repositório: https://github.com/ArautD/coleta_de_imagens_gee. <br/>
+As imagens de treino podem ser encontradas em: https://drive.google.com/drive/folders/1o8pYNUYthiJmWrKMQ4RkteXOGKCKQlTi?usp=sharing. <br/>
+As imagens de teste podem ser encontradas em: https://drive.google.com/drive/folders/1_D5Onxg2JwQNhdwAq1wIHUuD0aiK0zLD?usp=drive_link. <br/>
 
 # 📄 Descrição do Projeto
 
